@@ -37,26 +37,22 @@ Below are selected high-fidelity screens representing core functionalities.
 Full screenshots are located in `assets/screenshots/`.
 
 ### Welcome Page  
-![Welcome](assets/screenshots/welcome.png)
+<img src="assets/screenshots/welcome.png" width="300">
 
 ### Signup Page  
-![Signup](assets/screenshots/signup.png)
-
 <img src="assets/screenshots/signup.png" width="300">
 
-
 ### Customer Dashboard  
-![Customer Dashboard](assets/screenshots/customer-dashboard.png)
+<img src="assets/screenshots/customer-dashboard.png" width="300">
 
 ### Vendor Dashboard  
-![Vendor Dashboard](assets/screenshots/vendor-dashboard.png)
+<img src="assets/screenshots/vendor-dashboard.png" width="300">
 
 ### Seat Map  
-![Seat Map](assets/screenshots/seat-map.png)
+<img src="assets/screenshots/seat-map.png" width="300">
 
 ### Vendor Analytics  
-![Vendor Analytics](assets/screenshots/vendor-analytics.png)
-
+<img src="assets/screenshots/vendor-analytics.png" width="300">
 ---
 ## Design Tools Used
 
