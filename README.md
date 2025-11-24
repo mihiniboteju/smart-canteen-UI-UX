@@ -53,7 +53,9 @@ Full screenshots are located in `assets/screenshots/`.
 
 ### Vendor Analytics  
 <img src="assets/screenshots/vendor-analytics.png" width="300">
+
 ---
+
 ## Design Tools Used
 
 - Figma – Wireframes, high-fidelity UI design, prototyping
