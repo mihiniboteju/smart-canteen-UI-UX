@@ -42,6 +42,9 @@ Full screenshots are located in `assets/screenshots/`.
 ### Signup Page  
 ![Signup](assets/screenshots/signup.png)
 
+<img src="assets/screenshots/signup.png" width="300">
+
+
 ### Customer Dashboard  
 ![Customer Dashboard](assets/screenshots/customer-dashboard.png)
 
