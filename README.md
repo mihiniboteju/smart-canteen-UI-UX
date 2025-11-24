@@ -36,6 +36,9 @@ Full interactive design and prototype:
 Below are selected high-fidelity screens representing core functionalities.  
 Full screenshots are located in `assets/screenshots/`.
 
+### Welcome Page  
+![Welcome](assets/screenshots/welcome.png)
+
 ### Signup Page  
 ![Signup](assets/screenshots/signup.png)
 
