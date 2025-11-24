@@ -4,6 +4,8 @@
 
 Smart Canteen is a mobile application designed to improve the campus dining experience for university students, staff, and canteen vendors. The app allows users to browse menus, place food orders in advance, track meal preparation in real time, and avoid long queues. It also provides a crowd level indicator and a seat availability map, helping users plan meal times more efficiently.
 
+This project was developed as the **UI/UX Final Project in the 3rd year of the Computer Engineering International Program at King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
+
 For vendors, Smart Canteen includes tools to update menus, manage orders, view analytics, and monitor business performance. This repository contains the full UI/UX design process, including wireframes, user flows, high-fidelity screens, and the interactive prototype.
 
 ---
